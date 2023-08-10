@@ -1,0 +1,7 @@
+.answer {
+  font-size: 25px;
+}
+
+.error {background-color: red;}
+
+.success {background-color: green;}
