@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ca324c3.css",
-    "main.js": "/static/js/main.f33933c7.js",
-    "index.html": "/index.html",
-    "main.4ca324c3.css.map": "/static/css/main.4ca324c3.css.map",
-    "main.f33933c7.js.map": "/static/js/main.f33933c7.js.map"
+    "main.css": "/project-react-question/static/css/main.4ca324c3.css",
+    "main.js": "/project-react-question/static/js/main.f33933c7.js",
+    "index.html": "/project-react-question/index.html",
+    "main.4ca324c3.css.map": "/project-react-question/static/css/main.4ca324c3.css.map",
+    "main.f33933c7.js.map": "/project-react-question/static/js/main.f33933c7.js.map"
   },
   "entrypoints": [
     "static/css/main.4ca324c3.css",
